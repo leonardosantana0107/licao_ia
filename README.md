@@ -2,7 +2,7 @@
 
 ##ELETRIC BOOM##
 **Dupla** : Leonardo Vieira e Thainá Carvalho
-**Site** :
+**Site** : https://licao-ia.vercel.app/
 
 
 ##Briefing:
